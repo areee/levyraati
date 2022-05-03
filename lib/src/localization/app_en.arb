@@ -1,6 +1,10 @@
 {
-  "appTitle": "levyraati",
+  "appTitle": "disc jury",
   "@appTitle": {
-    "description": "The title of the application"
-  }
+    "description": "A disc jury app made by using Flutter"
+  },
+  "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    }
 }
