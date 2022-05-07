@@ -11,4 +11,4 @@ PRODUCT_NAME = levyraati
 PRODUCT_BUNDLE_IDENTIFIER = io.github.areee.levyraati
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 io.github.areee. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 Arttu Ylhävuori. All rights reserved.
